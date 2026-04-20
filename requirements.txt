@@ -1,0 +1,9 @@
+shiny==1.5.1
+pandas~=2.1.4
+joblib~=1.4.2
+matplotlib~=3.8.0
+scikit-learn~=1.2.2
+numpy~=1.26.4
+plotly~=6.6.0
+shap~=0.46.0
+shinywidgets~=0.7.1
